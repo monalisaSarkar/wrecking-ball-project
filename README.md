@@ -1,2 +1,2 @@
-# wrecking-ball-project
-training project 
+# p5.play-boilerplate
+Boiler plate for p5.play
